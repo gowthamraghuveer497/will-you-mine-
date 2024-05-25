@@ -114,7 +114,7 @@ body{
   transition-delay: 0.4s;
 }
 
-.img1 > .pic-1 {
+.img1 > {
     position: absolute;
     right: 20%;
     bottom: 0;
