@@ -113,3 +113,11 @@ body{
   transform: rotate(90deg);
   transition-delay: 0.4s;
 }
+
+.img1 {
+    position: absolute;
+    right: 20%;
+    bottom: 0;
+    width: 54%;
+    height: 80%;
+}
